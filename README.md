@@ -1,6 +1,6 @@
 # University Management Project
 
-## Authentication service - Part 1
+## Authentication Service - Part 1
 
 We are building a university management system where we have three types of roles such as Admin , Student , Faculty.
 
